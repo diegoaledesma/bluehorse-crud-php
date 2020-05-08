@@ -1,6 +1,6 @@
 <?php
 
-$url        = 'http://diegoledesma.com.ar';
+$url        = 'https://diegoledesma.com.ar';
 $root       = $_SERVER['DOCUMENT_ROOT'];
 $proyect    = '/bh';
 $path       = $root . $proyect . '/bluehorse';
